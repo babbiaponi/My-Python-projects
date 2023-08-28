@@ -24,3 +24,4 @@ num2 = float(input("Informe o 2º número:"))
 operacao = int(input("Escolha (1 = Soma, 2 = Subtração, 3 = Multiplicação, 4 = Divisão):"))
 resultado = calc (num1, num2, operacao)
 print("Resultado:", resultado)
+
